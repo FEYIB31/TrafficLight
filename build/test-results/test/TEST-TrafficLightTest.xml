@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TrafficLightTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-03-28T19:21:45" hostname="Feyis-Air.cust.communityfibre.co.uk" time="1.037">
+  <properties/>
+  <testcase name="start" classname="TrafficLightTest" time="1.037"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+Welcome to the traffic management system!
+Menu:
+1. Add
+2. Delete
+3. System
+0. Quit
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
