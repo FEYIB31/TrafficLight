@@ -31,3 +31,6 @@
 /build/reports/tests/test/css/style.css
 /build/classes/java/test/SystemOutput.class
 /build/test-results/test/TEST-GlobalTests.xml
+/test/GlobalTests.java
+/src/traffic/Main.class
+/test/SystemOutput.java
